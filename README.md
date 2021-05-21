@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @nguyenminhtho995
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m nguyenminhtho 26 tuổi
+- 👀 I’m interested in việt nam
+- 🌱 I’m currently learning Hồ Chí Minh
+- 💞️ I’m looking to collaborate 
+- 📫 How to reach me phongv610@gmail.com
 
 <!---
 nguyenminhtho995/nguyenminhtho995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
